@@ -1,7 +1,7 @@
 # Author
 translation:
   source: "Name and link to social media"
-  text_direction: "ltr" # Set to "rtl" for right-to-left languages
+  text_direction: "rtl" # Set to "rtl" for right-to-left languages
 
 # Navigation
 nav:

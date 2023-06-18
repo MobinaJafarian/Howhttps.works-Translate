@@ -5,34 +5,34 @@ translation:
 
 # Navigation
 nav:
-  episodes: "Episodes"
-  about: "About"
-  ep1: "Why do we need HTTPS?"
-  ep2: "The keys"
-  ep3: "The handshake"
-  ep4: "HTTPS, SSL, TLS differences"
-  ep5: "Certificate Authorities"
-  social: "Be a social cat"
-  more_comics: "Read more comics"
-  continue_reading: "Continue reading"
+  episodes: "قسمت ها"
+  about: "درباره"
+  ep1: "چرا به HTTPS نیاز داریم؟"
+  ep2: "کلیدها"
+  ep3: "The handshake (دست دهی)"
+  ep4: "تفاوت های HTTPS، SSL، TLS"
+  ep5: "مرجع صدور گواهی دیجیتال"
+  social: "یک گربه اجتماعی باشید"
+  more_comics: "کمیک های بیشتری بخوانید"
+  continue_reading: "به خواندن ادامه دهید"
 
 # Home page
 home:
-  title: "How HTTPS Works"
-  certificat_cta: "Start reading"
-  subtitle: "How HTTPS works ...in a comic!"
-  p1: "Have you ever wondered why a green lock icon appears on your browser URL bar? And why is it important? We did too, and this comic is for you!"
-  p2: "Follow the adventures of Certificat, Browserbird, and Compugter as they explain why HTTPS is crucial for the future of the web and how it all works together."
-  p3: "Don't let the bad crabs get you (you'll know what we mean in the comic). Get to know HTTPS and why it is essential to your privacy."
-  small_cta: "Start reading now"
+  title: "HTTPS چگونه کار می کند"
+  certificat_cta: "شروع به خواندن کنید"
+  subtitle: "HTTPS چگونه کار می کند. در یک کمیک!"
+  p1: "آیا تا به حال فکر کرده اید که چرا یک نماد قفل سبز در نوار URL مرورگر شما ظاهر می شود؟ و چرا مهم است؟ ما هم این کار را کردیم و این کمیک برای شماست!"
+  p2: "ماجراهای Certificat، Browserbird و Compugter را دنبال کنید زیرا توضیح می دهند که چرا HTTPS برای آینده وب بسیار مهم است و چگونه همه با هم کار می کنند"
+  p3: "اجازه ندهید خرچنگ های بد شما را درگیر کنند (منظور ما در کمیک را خواهید فهمید). HTTPS و اینکه چرا برای حفظ حریم خصوصی شما ضروری است را بشناسید"
+  small_cta: "همین الان شروع به خواندن کنید"
 
 # Episode fragments for /episodes
 fragment:
-  ep1: "Start reading here. If there is only one thing that you take away from this comic, let it be this one."
-  ep2: "To understand how HTTPS works, you have to know how symmetric and asymmetric key encryption works. It sounds like big words, but really it's not."
-  ep3: "When you browse to a HTTP secure site, your browser and the server where it connects to have a secret handshake. We break this down and bring it into the real world so you can greet your friends with the secret handshake."
-  ep4: "It's easy to confuse HTTPS, SSL, and TLS. We often use these terms interchangeably. Let's talk about each of them with a bit of hiss-tory."
-  ep5: "What do they do? Why do we need them? How do they validate certificates? So many questions to answer in this last chapter of the comic!"
+  ep1: "خواندن را از اینجا شروع کنید. اگر فقط یک چیز است که از این کمیک حذف می کنید، بگذارید این یکی باشد"
+  ep2: "برای درک نحوه عملکرد HTTPS، باید بدانید رمزگذاری کلید متقارن و نامتقارن چگونه کار می کند. به نظر کلمات بزرگی می رسد، اما واقعاً اینطور نیست"
+  ep3: "وقتی به یک سایت امن HTTP مرور می‌کنید، مرورگر شما و سروری که در آن متصل می‌شود، یک دست دادن مخفی دارند. ما این را تجزیه می کنیم و آن را به دنیای واقعی می آوریم تا بتوانید با دست دادن مخفیانه به دوستان خود سلام کنید"
+  ep4: "به راحتی می توان HTTPS، SSL و TLS را اشتباه گرفت. ما اغلب از این اصطلاحات به جای هم استفاده می کنیم. بیایید در مورد هر یک از آنها با کمی تاریخچه صحبت کنیم"
+  ep5: "چه کار می کنند؟ چه نیازی به آنها داریم؟ چگونه گواهینامه ها را تایید می کنند؟ در این فصل آخر کمیک باید به سوالات زیادی پاسخ داد!"
 
 # Episodes
 ep1:

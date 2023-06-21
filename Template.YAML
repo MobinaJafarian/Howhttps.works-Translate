@@ -76,7 +76,7 @@ ep1:
   next_teaser: "اکنون که دلیل آن را می دانیم، گام بعدی درک رمزگذاری متقارن و نامتقارن است. کلمات بزرگ، اما مفاهیم آسان"
 
 ep2:
-  1: "The Keys"
+  1: "کلیدها"
   2: "HTTPS needs a way to provide privacy, integrity, and identification on the web."
   3: "And that mechanism is called 'encryption'."
   4-1: "Let's talk about the two types of encryption algorithms."

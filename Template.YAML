@@ -77,12 +77,12 @@ ep1:
 
 ep2:
   1: "کلیدها"
-  2: "HTTPS needs a way to provide privacy, integrity, and identification on the web."
-  3: "And that mechanism is called 'encryption'."
-  4-1: "Let's talk about the two types of encryption algorithms."
-  4-2: "Now, where did I put those keys?"
-  5-1: "Finally!"
-  5-2: "Let's start with the symmetric key algorithm."
+  2: "HTTPS به راهی برای ارائه حریم خصوصی، یکپارچگی و هویت در وب نیاز دارد"
+  3: "و این مکانیسم "رمزگذاری" نامیده می شود"
+  4-1: "بیایید در مورد دو نوع الگوریتم رمزگذاری صحبت کنیم"
+  4-2: "حالا من آن کلیدها را کجا گذاشتم؟"
+  5-1: "بالاخره!"
+  5-2: "بیایید با الگوریتم کلید متقارن شروع کنیم"
   6: "In this scenario, there is only one key to encrypt and decrypt a message."
   7: "Before sending a message to BrowserBird, I encrypt the message with a key."
   8: "You can think of the encryption process like putting the message in a box and locking the box with a key."
